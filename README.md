@@ -3,3 +3,4 @@ This is an algorithm implementation to change the web content location points in
 Below is a diagram to show how it works.
 
 
+![Flow Diagram](1.png)
