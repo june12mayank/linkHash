@@ -1,4 +1,4 @@
-# linkHash   Any Advice is welocomed :
+# linkHash   Any Advice is helpful.
 This is an algorithm implementation to change the web content location points into similar looking another access points.
 Below is a diagram to show how it works.
 
